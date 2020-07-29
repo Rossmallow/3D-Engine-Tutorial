@@ -1,0 +1,2 @@
+D:\Projects\Programs\olcEngine3DTutorial\Debug\olcEngine3DTutorial.exe
+D:\Projects\Programs\olcEngine3DTutorial\Debug\olcEngine3DTutorial.pdb
